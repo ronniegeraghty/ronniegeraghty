@@ -39,7 +39,7 @@
 
 ---
 
-![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronniegeraghty&show_icons=true&theme=dark)
+![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronniegeraghty&show_icons=true&theme=dark&hide_border=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronniegeraghty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronniegeraghty&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
