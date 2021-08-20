@@ -8,9 +8,9 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./globe.svg"/>](website)
-[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./mail.svg"/>](ronniegerag@gmail.com)
-[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./linkedin.svg"/>](https://www.linkedin.com/in/ronald-geraghty-074863108)
+[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/globe.svg"/>](website)
+[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/mail.svg"/>](ronniegerag@gmail.com)
+[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/linkedin.svg"/>](https://www.linkedin.com/in/ronald-geraghty-074863108)
 
 
 <br/>
