@@ -39,4 +39,4 @@
 
 ---
 
-<img align="left" alt="Ronnie test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ronniegeraghty&show_icons=true&hide_border=true"/>
+<img align="left" alt="Ronnie Geraghty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ronniegeraghty&show_icons=true&hide_border=true"/>
