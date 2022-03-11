@@ -10,7 +10,7 @@
 
 ### Connect with me: 
 
-[comment]: <> ([<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/globe.svg"/>](website))
+<!--[<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/globe.svg"/>](website)-->
 [<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/mail.svg"/>](ronniegerag@gmail.com)
 [<img align="left" alt="Ronnie Geraghty's Email" width="22px" src="./icons/linkedin.svg"/>](https://www.linkedin.com/in/ronald-geraghty-074863108)
 
