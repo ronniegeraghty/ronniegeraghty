@@ -2,7 +2,40 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Shipping+cloud+SDKs+at+scale;Building+AI-powered+dev+tooling;Turning+APIs+into+great+DX)](https://git.io/typing-svg)
 
-I ship cloud SDKs that turn Azure service APIs into production-ready client libraries. My work spans API design, code generation, SDK architecture, and developer tooling.
+---
+
+```
+   $ whoami
+   > ronniegeraghty
+
+   $ cat /etc/about.txt
+   > 📦 Expanding Azure service library coverage for Rust developers
+   > 🎨 Designing intuitive, idiomatic APIs
+   > 🤖 Building Copilot agents for SDK generation
+   > 👥 Gathering and acting on customer feedback
+
+   $ ls -la ~/skills/
+
+   drwxr-xr-x  languages/
+       -rw-r--r--  rust.rs          ████████████████████  Expert
+       -rw-r--r--  typescript.ts    ████████████████░░░░  Advanced
+       -rw-r--r--  javascript.js    ████████████████░░░░  Advanced
+       -rw-r--r--  cpp.cpp          ████████████░░░░░░░░  Proficient
+       -rw-r--r--  python.py        ████████████░░░░░░░░  Proficient
+
+   drwxr-xr-x  cloud/
+       -rw-r--r--  azure.cloud      ████████████████████  Expert
+       -rw-r--r--  github.git       ████████████████████  Expert
+       -rw-r--r--  docker.container ████████████████░░░░  Advanced
+
+   drwxr-xr-x  frameworks/
+       -rw-r--r--  nodejs.js        ████████████████░░░░  Advanced
+       -rw-r--r--  react.jsx        ████████████░░░░░░░░  Proficient
+
+   drwxr-xr-x  ai/
+       -rw-r--r--  github_copilot   ████████████████████  Daily Driver
+       -rw-r--r--  claude.code      ████████░░░░░░░░░░░░  Learning
+```
 
 ---
 
@@ -47,18 +80,13 @@ I ship cloud SDKs that turn Azure service APIs into production-ready client libr
 
 ### 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronniegeraghty&theme=tokyonight)
+<div align="center">
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronniegeraghty&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronniegeraghty&theme=tokyonight&utcOffset=-5" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronniegeraghty&theme=tokyonight" width="100%">
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronniegeraghty&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronniegeraghty&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronniegeraghty&theme=tokyonight" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronniegeraghty&theme=tokyonight&utcOffset=-5" width="49%">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronniegeraghty&theme=tokyo-night&hide_border=true)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer)
