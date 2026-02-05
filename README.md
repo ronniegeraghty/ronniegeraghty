@@ -59,6 +59,4 @@ I ship cloud SDKs that turn Azure service APIs into production-ready client libr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronniegeraghty&theme=tokyonight" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronniegeraghty&theme=tokyo-night&hide_border=true)
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer)
