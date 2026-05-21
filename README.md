@@ -1,15 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hey,%20I'm%20Ronnie%20👋&fontSize=42&fontAlignY=35&animation=twinkling&desc=Product%20Manager%20at%20Microsoft%20|%20Azure%20SDK%20for%20Rust%20🦀&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hey,%20I'm%20Ronnie%20👋&fontSize=42&fontAlignY=35&animation=twinkling&desc=Senior%20Product%20Manager%20at%20Microsoft%20|%20Offline%20evals%20for%20GitHub%20Copilot&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Shipping+cloud+SDKs+at+scale;Building+AI-powered+dev+tooling;Turning+APIs+into+great+DX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Building+offline+evals+for+GitHub+Copilot;Improving+Copilot+CLI+quality;Turning+AI+tooling+into+great+DX)](https://git.io/typing-svg)
 
-I ship cloud SDKs that turn Azure service APIs into production-ready client libraries.
+I help GitHub Copilot ship with confidence by building offline evals, starting with Copilot CLI.
 
 ---
 
 ### 🔧 What I'm working on
 
-- 🦀 **Azure SDK for Rust** — Customer experience, expanding Azure service library coverage, and API design
-- 🤖 **GitHub Copilot agent for SDK generation** — Automating how we build and ship SDKs
+- 🤖 **Offline evals for GitHub Copilot**: Building evaluation systems to improve product quality and developer experience
+- 💻 **Copilot CLI**: Starting with offline evals for Copilot in the terminal
 - 🧠 **Agent skills** — Personal projects exploring AI agent capabilities
 - 💰 **Home budgeting app** — Building tools to manage personal finances
 
