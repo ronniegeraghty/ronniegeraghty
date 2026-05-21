@@ -8,10 +8,11 @@ I help GitHub Copilot ship with confidence by building offline evals, starting w
 
 ### 🔧 What I'm working on
 
-- 🤖 **Offline evals for GitHub Copilot**: Building evaluation systems to improve product quality and developer experience
+- 🤖 **Offline evals for GitHub Copilot**: Building evaluation systems for product quality
 - 💻 **Copilot CLI**: Starting with offline evals for Copilot in the terminal
 - 🧠 **Agent skills**: Personal projects exploring AI agent capabilities
 - 💰 **Home budgeting app**: Building tools to manage personal finances
+- 🦀 **Azure SDK for Rust**: Still contributing to Rust client libraries for Azure services
 
 ---
 
